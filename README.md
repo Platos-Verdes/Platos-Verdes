@@ -2,17 +2,32 @@
 
 Este repositorio contiene la documentación relacionada con el proyecto [nombre de tu proyecto]. Aquí encontrarás información importante para comprender y gestionar el proyecto, incluyendo diagramas, manuales de usuario, análisis FODA, gráficos de Gantt y otros recursos relacionados.
 
-## Contenido
+## Archivos Recientes
 
-El repositorio está organizado en varias carpetas para facilitar la navegación:
+- [Manual de Usuario - Platos Verdes.pdf](./Manual%20de%20Usuario%20-%20Platos%20Verdes.pdf) - Última actualización: ahora
+- [Online Gantt 20231109.pdf](./Online%20Gantt%2020231109.pdf) - Última actualización: hace 47 minutos
 
-- **Diagramas:** Esta carpeta contiene diagramas y gráficos relacionados con el proyecto. Puedes encontrar diagramas de flujo, diagramas de arquitectura, mapas conceptuales y otros recursos visuales.
+## Diagramas
 
-- **Manuales de Usuario:** Aquí encontrarás manuales de usuario detallados que proporcionan instrucciones claras para utilizar las diferentes funcionalidades del proyecto.
+- [Diagrama Entidad Relacion.drawio](./Diagrama%20Entidad%20Relacion.drawio) - Última actualización: la semana pasada
+- [Diagrama caso de uso.drawio.pdf](./Diagrama%20caso%20de%20uso.drawio.pdf) - Última actualización: la semana pasada
+- [Diagrama de secuencia.drawio.pdf](./Diagrama%20de%20secuencia.drawio.pdf) - Última actualización: la semana pasada
+- [Diagrama flujo de datos.drawio.pdf](./Diagrama%20flujo%20de%20datos.drawio.pdf) - Última actualización: la semana pasada
 
-- **Análisis FODA:** Incluimos un análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) que evalúa la situación actual del proyecto y sus perspectivas futuras.
+## Otros Archivos
 
-- **Gráfico de Gantt:** En esta carpeta, presentamos un gráfico de Gantt que muestra la planificación y programación de las tareas del proyecto a lo largo del tiempo.
+- [FODA.pdf](./FODA.pdf) - Última actualización: la semana pasada
+- [Trello.docx](./Trello.docx) - Última actualización: la semana pasada
+
+## Contribuciones
+
+- [Última contribución](https://github.com/Platos-Verdes/Platos-Verdes/commit/644069e) - Añadidos nuevos archivos via carga
+
+## Estadísticas de Git
+
+- [Estadísticas de Git](https://github.com/Platos-Verdes/Platos-Verdes/commits/main) - 6 commits realizados
+
+
 
 ## Cómo Contribuir
 
