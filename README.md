@@ -8,30 +8,30 @@
 * [Descripción del proyecto](#descripción-del-proyecto)
 * [Estado del proyecto](#estado-del-proyecto)
 * [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
-* [Acceso al proyecto](#acceso-proyecto)
+* [Acceso al proyecto](#acceso-al-proyecto)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
 * [Personas Contribuyentes](#personas-contribuyentes)
-* [Personas Desarrolladores del Proyecto](#personas-desarrolladores)
+* [Personas Desarrolladores del Proyecto](#personas-desarrolladores-del-proyecto)
 * [Licencia](#licencia)
 * [Conclusión](#conclusión)
 
 ## Título e imagen de portada
 
-![Recetas Nutritivas]()
+![Platos Verdes](imagen.png)
 
-##Insignias
+## Insignias
 Licencia MIT 📜✨
 
 Mejoramos la presentación de la insignia de licencia para darle un toque más atractivo y destacado. ¡Explora y disfruta del proyecto bajo la Licencia MIT!
 
-##Índice
-🔝 Desplazarse hacia arriba
+## Índice
+🔝 [Desplazarse hacia arriba](#índice) 
 
-##Descripción del proyecto
+## Descripción del proyecto
 
-Bienvenido a nuestro proyecto dedicado a la exploración y compartición de recetas nutritivas. Nos esforzamos por ofrecer una plataforma interactiva que no solo te inspire en la cocina, sino que también te ayude a compartir tus creaciones culinarias saludables. Desde deliciosas ensaladas hasta platos principales nutritivos, aquí encontrarás una variedad de opciones para satisfacer tu paladar y mantener un estilo de vida saludable. ¡Explora, cocina y comparte el placer de la buena comida nutritiva con nosotros! 🌱🍲
+¡Bienvenido a "Platos Verdes"! Este proyecto tiene como objetivo ser tu compañero en el mundo de la alimentación saludable. Nos esforzamos por ofrecer una plataforma interactiva que no solo te inspire en la cocina, sino que también te ayude a compartir tus creaciones culinarias saludables. Desde deliciosas ensaladas hasta platos principales nutritivos, aquí encontrarás una variedad de opciones para satisfacer tu paladar y mantener un estilo de vida saludable. ¡Explora, cocina y comparte el placer de la buena comida nutritiva con nosotros! 🌱🍲
 
-##Estado del proyecto
+## Estado del proyecto
 
 ¡En desarrollo y mejorando constantemente! 🚀
 Estamos comprometidos en perfeccionar cada aspecto del proyecto para brindarte la mejor experiencia posible. ¡Gracias por tu paciencia y apoyo mientras trabajamos en hacerlo aún mejor! 💪✨
@@ -44,7 +44,7 @@ Estamos comprometidos en perfeccionar cada aspecto del proyecto para brindarte l
 
 ## Acceso al proyecto
 
-El proyecto está disponible aquí 🚀. ¡Explora y disfruta de las recetas nutritivas!
+El proyecto está disponible [aquí](enlace-al-proyecto) 🚀. ¡Explora y disfruta de las recetas nutritivas!
 
 ## Tecnologías utilizadas
 
