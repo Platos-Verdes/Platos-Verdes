@@ -1,4 +1,4 @@
-# Proyecto de Recetas Nutritivas
+# Proyecto "Platos Verdes"
 
 ## Índice
 
@@ -19,21 +19,24 @@
 
 ![Recetas Nutritivas](imagen.png)
 
-## Insignias
+##Insignias
+Licencia MIT 📜✨
 
-[![Licencia MIT](https://img.shields.io/badge/License-MIT-blue.svg)](enlace a la licencia)
+Mejoramos la presentación de la insignia de licencia para darle un toque más atractivo y destacado. ¡Explora y disfruta del proyecto bajo la Licencia MIT!
 
 ## Índice
 
 [Desplazarse hacia arriba](#índice)
 
-## Descripción del proyecto
 
-Este proyecto tiene como objetivo proporcionar una plataforma interactiva para descubrir y compartir recetas nutritivas.
+##Descripción del proyecto
 
-## Estado del proyecto
+Bienvenido a nuestro proyecto dedicado a la exploración y compartición de recetas nutritivas. Nos esforzamos por ofrecer una plataforma interactiva que no solo te inspire en la cocina, sino que también te ayude a compartir tus creaciones culinarias saludables. Desde deliciosas ensaladas hasta platos principales nutritivos, aquí encontrarás una variedad de opciones para satisfacer tu paladar y mantener un estilo de vida saludable. ¡Explora, cocina y comparte el placer de la buena comida nutritiva con nosotros! 🌱🍲
 
-En desarrollo
+##Estado del proyecto
+
+¡En desarrollo y mejorando constantemente! 🚀
+Estamos comprometidos en perfeccionar cada aspecto del proyecto para brindarte la mejor experiencia posible. ¡Gracias por tu paciencia y apoyo mientras trabajamos en hacerlo aún mejor! 💪✨
 
 ## Características de la aplicación y demostración
 
@@ -43,7 +46,7 @@ En desarrollo
 
 ## Acceso al proyecto
 
-El proyecto está disponible [aquí](enlace al proyecto).
+El proyecto está disponible aquí 🚀. ¡Explora y disfruta de las recetas nutritivas!
 
 ## Tecnologías utilizadas
 
@@ -53,20 +56,39 @@ El proyecto está disponible [aquí](enlace al proyecto).
 
 ## Personas Contribuyentes
 
-- Nombre 1
-- Nombre 2
-- ...
+- Damian Olaso
 
 ## Personas Desarrolladores del Proyecto
 
-- Nombre 1
-- Nombre 2
-- ...
+- Alan Gonzalez
+- Geraldine Nelly Abregu Pazos
+- Maximo Jose Escobar Hernandez 
+- Vanina Carolina Cavalitto
+- Luciano Tahiel Bellante
+- Victoria Laura
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia MIT](enlace a la licencia).
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Conclusión
 
-¡Gracias por explorar nuestro proyecto de Recetas Nutritivas! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros.
+¡Gracias por explorar nuestro proyecto de Recetas Nutritivas! Agradecemos tu interés y apoyo. Si tienes alguna pregunta, sugerencia o comentario, no dudes en ponerte en contacto con nosotros. Valoramos tu participación y estamos aquí para mejorar y crecer juntos. ¡Feliz cocinado y disfruta de las recetas saludables!
