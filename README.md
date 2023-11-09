@@ -17,17 +17,15 @@
 
 ## Título e imagen de portada
 
-![Recetas Nutritivas](imagen.png)
+![Recetas Nutritivas]()
 
 ##Insignias
 Licencia MIT 📜✨
 
 Mejoramos la presentación de la insignia de licencia para darle un toque más atractivo y destacado. ¡Explora y disfruta del proyecto bajo la Licencia MIT!
 
-## Índice
-
-[Desplazarse hacia arriba](#índice)
-
+##Índice
+🔝 Desplazarse hacia arriba
 
 ##Descripción del proyecto
 
