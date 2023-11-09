@@ -4,31 +4,29 @@ Este repositorio contiene la documentación relacionada con el proyecto [nombre 
 
 ## Archivos Recientes
 
-- [Manual de Usuario - Platos Verdes.pdf](./Manual%20de%20Usuario%20-%20Platos%20Verdes.pdf) - Última actualización: ahora
-- [Online Gantt 20231109.pdf](./Online%20Gantt%2020231109.pdf) - Última actualización: hace 47 minutos
+- [Manual de Usuario - Platos Verdes.pdf](./Manual%20de%20Usuario%20-%20Platos%20Verdes.pdf)
+- [Online Gantt 20231109.pdf](./Online%20Gantt%2020231109.pdf)
 
 ## Diagramas
 
-- [Diagrama Entidad Relacion.drawio](./Diagrama%20Entidad%20Relacion.drawio) - Última actualización: la semana pasada
-- [Diagrama caso de uso.drawio.pdf](./Diagrama%20caso%20de%20uso.drawio.pdf) - Última actualización: la semana pasada
-- [Diagrama de secuencia.drawio.pdf](./Diagrama%20de%20secuencia.drawio.pdf) - Última actualización: la semana pasada
-- [Diagrama flujo de datos.drawio.pdf](./Diagrama%20flujo%20de%20datos.drawio.pdf) - Última actualización: la semana pasada
+- [Diagrama Entidad Relacion.drawio](./Diagrama%20Entidad%20Relacion.drawio)
+- [Diagrama caso de uso.drawio.pdf](./Diagrama%20caso%20de%20uso.drawio.pdf)
+- [Diagrama de secuencia.drawio.pdf](./Diagrama%20de%20secuencia.drawio.pdf)
+- [Diagrama flujo de datos.drawio.pdf](./Diagrama%20flujo%20de%20datos.drawio.pdf)
 
 ## Otros Archivos
 
-- [FODA.pdf](./FODA.pdf) - Última actualización: la semana pasada
-- [Trello.docx](./Trello.docx) - Última actualización: la semana pasada
+- [FODA.pdf](./FODA.pdf)
+- [Trello.docx](./Trello.docx)
 
 ## Contribuciones
 
-- [Última contribución](https://github.com/Platos-Verdes/Platos-Verdes/commit/644069e) - Añadidos nuevos archivos via carga
+- [Última contribución](https://github.com/Platos-Verdes/Platos-Verdes/commit/644069e)
 
 ## Estadísticas de Git
 
-- [Estadísticas de Git](https://github.com/Platos-Verdes/Platos-Verdes/commits/main) - 6 commits realizados
-
-
-
+- [Estadísticas de Git](https://github.com/Platos-Verdes/Platos-Verdes/commits/main)
+  
 ## Cómo Contribuir
 
 Apreciamos y alentamos las contribuciones a esta documentación. Si deseas agregar o mejorar la documentación, sigue estos pasos:
