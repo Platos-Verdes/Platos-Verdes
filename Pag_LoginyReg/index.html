@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login y Registro</title>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+
+    <header>
+      <nav class="navbar">
+          <div class="logo">
+              <h1>PLATOS VERDES</h1>
+          </div>
+          <div class="nav-links">
+              <ul>
+                  <li><a href="#">Iniciar Sesion</a></li>
+                  <li><a href="#">Contacto</a></li>
+                  <li><a href="#">Suscribirse</a></li>
+              </ul>
+          </div>
+      </nav>
+  </header>
+    
+
+  <div class="container">
+      <div class="form-container" id="login-form">
+        <div class="pato2"> </div>
+        
+        <form>
+          <input type="text" style="width: 500px; height: 20px; margin-top: 6%;" id="usuario" name="usuario" placeholder="Ingresar Usuario" required><br>
+
+          <input type="password" style="width: 500px; height: 20px; margin-top: 2%;" id="contrasena" name="contrasena" placeholder="Ingresar Contrasena" required><br>
+
+          <button type="button" id="registro-btn">Registrarse</button>
+          <button type="submit">Iniciar Sesion</button>
+        </form>
+      
+    </div>
+
+      <div class="form-container register" id="registro-form">
+        <label for="file-input" id="pato-label" class="pato">
+          <img id="profile-image" src="img/default-profile-image.png">
+        </label>
+        <input type="file" id="file-input" accept="image/*" style="display: none;" onchange="loadProfileImage(this)">
+        <form>
+          <input type="text" style="width: 500px; height: 20px; margin-top: 2%;" id="nombre" name="nombre" placeholder="Ingrese un Nuevo Nombre" required><br>
+          <input type="email" style="width: 500px; height: 20px; margin-top: 2%;" id="correo" name="correo" placeholder="Ingrese un Nuevo Correo Electronico" required><br>
+          <input type="password" style="width: 500px; height: 20px; margin-top: 2%;" id="nueva-contrasena" name="nueva-contrasena" placeholder="Ingrese una Nueva Contrasena" required><br>
+          <button type="button" id="login-btn">Volver a Iniciar Sesion</button>
+          <button type="submit">Registrarse</button>
+        </form>
+      </div>
+  </div>
+
+
+  <footer class="footer">
+    <div class="footer-container">
+        <div class="footer-row">
+           <div class="footer-links">
+            <!-- logo -->
+            </div>
+            <div class="footer-links">
+                <h4> DIRECCION </h4>
+                <ul>
+                    <li> <a href="#">2590 Flovida.</a></li>
+                    <li> <a href="#">Ciudad Baires, Agentina.</a></li>
+                    <li> <a href="#">Codigo postal: 0030</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h4> CONTACTO </h4>
+                <ul>
+                    <li> <a href="#">Numero de Telefono: 555-678-9012</a></li>
+                    <li> <a href="#">Correo:ejemplo@gmail.com</a></li>
+                    <li> <a href="#">Contacto Adicional:</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h4> Redes Sociales </h4>
+                <div class="social-links">
+                    <a href=""><i class="fab fa-instagram"></i></a>
+                    <a href=""><i class="fab fa-youtube"></i></a>
+                    <a href=""><i class="fab fa-twitter"></i></a>
+                    <a href=""><i class="fab fa-facebook-f"></i></a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</footer>
+  
+
+<script src="script2.js"></script>
+
+<script src="script3.js"></script>
+
+<script src="script4.js"></script>
+
+<script src="script5.js"></script>
+</body>
+</html>

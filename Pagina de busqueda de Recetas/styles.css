@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ruwudu&display=swap');
+@import url('https://fonts.googleapis.com//css2?family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Pau+Cin+Hau&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #E8F1E1;
+    font-size: 16px;
+    
+}
+
+center{
+ text-align: center;   
+}
+
+/* Barra de navegación */
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 5%;
+    font-weight: bold;
+    background-color: #688455;
+}
+
+.logo h1 {
+    color: #fff;
+    font-size: 24px;
+    margin: 0;
+}
+
+.nav-links ul {
+    display: flex;
+}
+
+.nav-links ul li {
+    margin: 0 20px;
+}
+
+.nav-links li, .nav-links a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/*             CONTPAG                         */ 
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.rectangulo-vertical {
+    display: flex;
+    background-color: #db343400;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 2000px; /* Ancho inicial */
+    padding: 10px; /* Espacio entre los rectángulos horizontales */
+}
+.rectangulo-horizontal {
+    display: flex;
+    width: 1700px;
+    height: 500px;
+    background-color: #F6F6F6;
+    margin: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s; /* Agregar transición al color de fondo */
+}
+
+.rectangulo-vertical:hover {
+    width: 400px; /* Ancho aumentado en hover */
+}
+
+.cuadrado {
+    width: 500px; /* Ancho del cuadrado */
+    height: 400px; /* Altura del cuadrado */
+    background-color: #b1b1b1;
+    margin-left: 50px; /* Espacio entre el cuadrado y el texto */
+    margin-top: 50px;
+    border-radius: 5%;
+}
+
+.titulocomida{
+    margin: 0;
+    font-size: 24px; /* Tamaño de fuente del texto */
+    color: #333; /* Color del texto */
+    padding: 20px; /* Espacio entre el texto y el cuadrado */
+    margin-left: 30px;
+    margin-top: 50px;
+    font-family: 'Dosis', sans-serif;
+    color: #3F5033;
+}
+
+.textoabajocomida{
+    font-family: 'Dosis', sans-serif;
+    font-weight: normal;
+    color: #3F5033;
+    padding: 2px;
+    margin-left: 45px;
+}
+
+.rectangulo-horizontal:hover {
+    background-color: #66ff000e; /* Cambia el color de fondo al pasar el cursor */
+    cursor: pointer; /* Cambia el cursor al estilo de un botón */
+}
+
+.scale-up-center{animation:scale-up-center 0.4s; } @keyframes scale-up-center{ 0%{transform:scale(.5)} 100%{transform:scale(1)} }
+
+/*----------------FOOTER----------------------*/ 
+
+.footer{
+    background-color: #688455;
+    padding: 60px 0 ;
+}
+.footer-container{
+    max-width: 1200px;
+    height: 230px;
+    margin: 0 auto;
+}
+.footer-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-links{
+    width: 25%;
+    padding: 0 15px;
+}
+.footer-links h4{
+    font-size: 20px;
+    color: #ffffff;
+    margin-bottom: 25px;
+    font-weight: 500;
+    border-bottom: 2px solid #3f5f29;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+.footer-links ul li a{
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 15px;
+    color: #fdfdfd;
+    transition: all .3s ease;
+}
+.footer-links ul li a:hover{
+    color: white;
+    padding-left: 6px;
+}
+.social-links a{
+   display: inline-block;
+   min-height: 40px;
+   width: 40px;
+   background-color: rgb(255, 255, 255 , 0.2);
+   margin: 0 10px 10px 0;
+   text-align: center;
+   line-height: 40px;
+   border-radius: 50%;
+   color: #ffffff;
+   transition: all .5s ease ;
+}
+
+.social-links a:hover{
+    background-color: #807f7f;
+}
+

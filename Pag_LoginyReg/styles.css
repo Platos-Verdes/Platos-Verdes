@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ruwudu&display=swap');
+@import url('https://fonts.googleapis.com//css2?family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Pau+Cin+Hau&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%; /* Utiliza el 100% del ancho de la página */
+    background: transparent;
+    overflow: hidden;
+    padding: 2.5%;
+}
+
+    .form-container {
+      background-image: url('img/1.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      border: 1px solid #ccc;
+      border-radius: 50px;
+      padding: 20px;
+      box-shadow: 0 0 50px rgba(0, 0, 0, 0.4);
+      text-align: center;
+      width: 600px;
+      height: 600px;
+      border: 4px solid #6A8657;
+      margin-left: 600px;
+    }
+
+    .rotate-center {
+      animation: rotate-center 0.4s;
+    }
+
+    @keyframes rotate-center {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    /* Estilo para los botones */
+    button {
+      background-color: #6A8657; /* Color de fondo */
+      color: #fff;
+      border: 4px solid #3F5033; /* Contorno */
+      border-radius: 50px;
+      height: 50px;
+      width: 200px;
+      padding: 10px 20px;
+      margin: 10px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #3F5033; /* Color de fondo al pasar el cursor */
+    }
+
+    input[type="text"],
+    input[type="password"],
+    input[type="email"] {
+      width: 100%;
+      padding: 20px;
+      margin-bottom: 10px;
+      border: 5px solid #6A8657;
+      border-radius: 50px;
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+
+    /* Estilo para ocultar el formulario de registro inicialmente */
+    #registro-form {
+      display: none;
+    }
+
+body {
+    
+    height: 100vh;
+    margin: 0;
+    background-image: url("img/fondo.png");
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+center{
+ text-align: center;   
+}
+
+/* Barra de navegación */
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 5%;
+    font-weight: bold;
+    background-color: #688455;
+}
+
+.logo h1 {
+    color: #fff;
+    font-size: 24px;
+    margin: 0;
+}
+
+.nav-links ul {
+    display: flex;
+}
+
+.nav-links ul li {
+    margin: 0 20px;
+}
+
+.nav-links li, .nav-links a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/* Estilo para el contenedor del círculo */
+.pato {
+    width: 260px;
+    height: 260px;
+    border: 5px solid #3F5033; /* Contorno verde oscuro */
+    border-radius: 50%; /* Hace que el elemento sea un círculo */
+    background-image: url('img/pato.png'); /* Ruta de tu imagen de fondo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    margin-left: 27%;
+    margin-top: 3%;
+    overflow: hidden; /* Recorta cualquier contenido que se salga del círculo */
+    cursor: pointer; /* Cambia el cursor al puntero */
+    transition: all 0.3s; /* Agrega una transición suave */
+}
+
+.pato2 {
+    width: 260px;
+    height: 260px;
+    border: 5px solid #3F5033; /* Contorno verde oscuro */
+    border-radius: 50%; /* Hace que el elemento sea un círculo */
+    background-image: url('img/pato.png'); /* Ruta de tu imagen de fondo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    margin-left: 27%;
+    margin-top: 3%;
+    overflow: hidden; /* Recorta cualquier contenido que se salga del círculo */
+}
+  
+  /* Agrega un estilo para la imagen de perfil */
+  #profile-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%; /* Aplica un recorte circular a la imagen */
+    transition: all 0.3s; /* Agrega una transición suave */
+  }
+
+/*----------------FOOTER----------------------*/ 
+
+.footer{
+    background-color: #688455;
+    padding: 60px 0 ;
+}
+.footer-container{
+    max-width: 1200px;
+    height: 230px;
+    margin: 0 auto;
+}
+.footer-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-links{
+    width: 25%;
+    padding: 0 15px;
+}
+.footer-links h4{
+    font-size: 20px;
+    color: #ffffff;
+    margin-bottom: 25px;
+    font-weight: 500;
+    border-bottom: 2px solid #3f5f29;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+.footer-links ul li a{
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 15px;
+    color: #fdfdfd;
+    transition: all .3s ease;
+}
+.footer-links ul li a:hover{
+    color: white;
+    padding-left: 6px;
+}
+.social-links a{
+   display: inline-block;
+   min-height: 40px;
+   width: 40px;
+   background-color: rgb(255, 255, 255 , 0.2);
+   margin: 0 10px 10px 0;
+   text-align: center;
+   line-height: 40px;
+   border-radius: 50%;
+   color: #ffffff;
+   transition: all .5s ease ;
+}
+
+.social-links a:hover{
+    background-color: #807f7f;
+}
+
